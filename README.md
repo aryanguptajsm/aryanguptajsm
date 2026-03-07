@@ -55,10 +55,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=aryanguptajsm&show_icons=true&hide_border=true&bg_color=0d1117&title_color=6E86FF&icon_color=6E86FF&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=aryanguptajsm&hide_border=true&background=0d1117&ring=6E86FF&fire=FF6B6B&currStreakLabel=6E86FF&currStreakNum=ffffff&sideNums=c9d1d9&sideLabels=8892b0&dates=8892b0" width="49%"/>
 
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanguptajsm&layout=compact&hide_border=true&bg_color=0d1117&title_color=6E86FF&text_color=c9d1d9&langs_count=10" width="50%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aryanguptajsm&theme=tokyonight&utcOffset=5.5" width="44%"/>
 
@@ -86,15 +82,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aryan_Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-gupta-b55230371)
 [![X](https://img.shields.io/badge/X-@aryangupta026-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/aryangupta026)
 [![Instagram](https://img.shields.io/badge/Instagram-@aryangupta026-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aryangupta026)
+[![Mail](https://img.shields.io/badge/Email-aryangupta026%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aryangupta026@gmail.com)
 
 </div>
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer&reversal=true&animation=twinkling" width="100%"/>
-
-<sub>crafted by <a href="https://github.com/aryanguptajsm"><b>@aryanguptajsm</b></a></sub>
-
-</div>
