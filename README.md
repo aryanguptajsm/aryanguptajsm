@@ -82,7 +82,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aryan_Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-gupta-b55230371)
 [![X](https://img.shields.io/badge/X-@aryangupta026-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/aryangupta026)
 [![Instagram](https://img.shields.io/badge/Instagram-@aryangupta026-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aryangupta026)
-[![Mail](https://img.shields.io/badge/Email-aryangupta026%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aryangupta026@gmail.com)
+[![Mail](https://img.shields.io/badge/Email-aryangupta026%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aryangupta.jsm@gmail.com)
 
 </div>
 
