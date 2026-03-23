@@ -20,9 +20,7 @@
 &nbsp;
 ![Stars](https://img.shields.io/github/stars/aryanguptajsm?label=Stars&style=flat-square&color=FFD93D&labelColor=0d1117)
 
-</div>
-
----
+</div>  
 
 ## Stack
 
@@ -85,6 +83,4 @@
 [![Mail](https://img.shields.io/badge/Email-aryangupta.jsm%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aryangupta.jsm@gmail.com)
 
 </div>
-
----
 
