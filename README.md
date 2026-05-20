@@ -50,7 +50,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aryanguptajsm&show_icons=true&hide_border=true&bg_color=0d1117&title_color=6E86FF&icon_color=6E86FF&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github" width="49%"/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com?user=aryanguptajsm&hide_border=true&background=0d1117&ring=6E86FF&fire=FF6B6B&currStreakLabel=6E86FF&currStreakNum=ffffff&sideNums=c9d1d9&sideLabels=8892b0&dates=8892b0" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanguptajsm&layout=compact&hide_border=true&bg_color=0d1117&title_color=6E86FF&text_color=c9d1d9&langs_count=10" width="50%"/>
