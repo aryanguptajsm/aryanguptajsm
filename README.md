@@ -76,7 +76,7 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-aryanguptajsm-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryanguptajsm)
+[![GitHub](https://img.shields.io/badge/GitHub-aryanguptajsm-181717?style=for-the-badge&logo=github&logoColor=white)](h
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aryan_Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-gupta-b55230371)
 [![X](https://img.shields.io/badge/X-@aryangupta026-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/aryangupta026)
 [![Instagram](https://img.shields.io/badge/Instagram-@aryangupta026-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aryangupta026)
