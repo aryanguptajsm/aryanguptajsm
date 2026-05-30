@@ -58,7 +58,7 @@
 
 </div>
 
-<div align="center">
+<div >
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanguptajsm&bg_color=0d1117&color=6E86FF&line=6E86FF&point=ffffff&area=true&area_color=1a1a4e&hide_border=true&custom_title=Contribution+Activity&radius=6" width="97%"/>
 
