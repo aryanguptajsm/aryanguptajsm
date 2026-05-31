@@ -77,7 +77,8 @@
 <div align="center">
 
 (https://img.shields.io/badge/GitHub-aryanguptajsm-181717?style=for-the-badge&logo=github&logoColor=white)
-[LinkedIn](https://img.shields.io/badge/LinkedIn-Aryan_Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](
+(https://github.com/aryanguptajsm)
+[LinkedIn](https://img.shields.io/badge/LinkedIn-Aryan_Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]
 (https://img.shields.io/badge/X-@aryangupta026-000000?style=for-the-badge&logo=x&logoColor=white)
 [![Instagram](https://img.shields.io/badge/Instagram-@aryangupta026-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aryangupta026)
 [![Mail](https://img.shields.io/badge/Email-aryangupta.jsm%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aryangupta.jsm@gmail.com)
