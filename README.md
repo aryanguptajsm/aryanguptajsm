@@ -93,5 +93,4 @@
 <a href="mailto:aryangupta.jsm@gmail.com">
   <img src="https://img.shields.io/badge/Email-aryangupta.jsm@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
 </div>
