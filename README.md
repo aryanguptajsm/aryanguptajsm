@@ -67,10 +67,3 @@
 <img src="https://github-profile-trophy.vercel.app/?username=aryanguptajsm&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="97%"/>
 
 </div>
-
----
-
-## Connect
-g src="https://img.shields.io/badge/Email-aryangupta.jsm@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</div>
