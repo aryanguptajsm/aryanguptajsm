@@ -71,26 +71,6 @@
 ---
 
 ## Connect
-
-<div align="center">
-
-<a href="https://github.com/aryanguptajsm">
-  <img src="https://img.shields.io/badge/GitHub-aryanguptajsm-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://linkedin.com/in/aryan-gupta">
-  <img src="https://img.shields.io/badge/LinkedIn-Aryan_Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://x.com/aryangupta026">
-  <img src="https://img.shields.io/badge/X-@aryangupta026-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-
-<a href="https://instagram.com/aryangupta026">
-  <img src="https://img.shields.io/badge/Instagram-@aryangupta026-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="mailto:aryangupta.jsm@gmail.com">
-  <img src="https://img.shields.io/badge/Email-aryangupta.jsm@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+g src="https://img.shields.io/badge/Email-aryangupta.jsm@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </div>
